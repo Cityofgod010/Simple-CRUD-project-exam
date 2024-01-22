@@ -1,1 +1,1 @@
-This my final project in PHP which I made for TCR. A simple PHP project not (object-orientated programmed).
+This my final project in PHP which I made for Techniek College Rotterdam. A simple PHP project in Bootstrap with different levels of users level 0 or 1 depending on the rights. Also not (object-orientated programmed).
